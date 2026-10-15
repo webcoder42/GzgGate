@@ -1,0 +1,10 @@
+{
+  "description": "Streamline your shipping experience with a premium freight and logistics platform that offers competitive rates, shipment tracking, and tailored solutions for businesses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
